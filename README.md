@@ -1,2 +1,2 @@
 # Pandas
-Pandas Homework
+Pandas Gaming Summary
